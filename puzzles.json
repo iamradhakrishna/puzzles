@@ -1,0 +1,121 @@
+ [
+
+     {
+        "puzzleTypeId" : 1000,
+        "parentPuzzleTypeId" : -1,
+        "puzzleType": "Logic Puzzles",
+        "childPuzzles" : [
+                          {
+                              "puzzleId" : 1001,
+                              "parentpuzzleTypeId" : 1000,
+                              "puzzleTitle" : "PUZZLE#1",
+							  "puzzleBody" : "This is puzzle number 1.",
+							  "puzzleSolution" : "This is solution for puzzle number 1.",
+							  "puzzleSource" : "This is source of puzzle number 1."
+                          },
+                          {
+                              "puzzleId" : 1002,
+                              "parentpuzzleTypeId" : 1000,
+                              "puzzleTitle" : "PUZZLE#2",
+							  "puzzleBody" : "This is puzzle number 2.",
+							  "puzzleSolution" : "This is solution for puzzle number 2.",
+							  "puzzleSource" : "This is source of puzzle number 2."
+                          },
+                          {
+                              "puzzleId" : 1003,
+                              "parentpuzzleTypeId" : 1000,
+                              "puzzleTitle" : "PUZZLE#3",
+							  "puzzleBody" : "This is puzzle number 3.",
+							  "puzzleSolution" : "This is solution for puzzle number 3.",
+							  "puzzleSource" : "This is source of puzzle number 3."
+                          },
+                         {
+                              "puzzleId" : 1004,
+                              "parentpuzzleTypeId" : 1000,
+                              "puzzleTitle" : "PUZZLE#4",
+							  "puzzleBody" : "This is puzzle number 4.",
+							  "puzzleSolution" : "This is solution for puzzle number 4.",
+							  "puzzleSource" : "This is source of puzzle number 4."
+                          }
+                      ]
+    },   
+         {
+        "puzzleTypeId" : 2000,
+        "parentPuzzleTypeId" : -1,
+        "puzzleType": "Word Puzzles",
+        "childPuzzles" : [
+                          {
+                              "puzzleId" : 2001,
+                              "parentpuzzleTypeId" : 2000,
+                              "puzzleTitle" : "PUZZLE#1",
+							  "puzzleBody" : "This is puzzle number 1.",
+							  "puzzleSolution" : "This is solution for puzzle number 2.",
+							  "puzzleSource" : "This is source of puzzle number 2."
+                          },
+                          {
+                              "puzzleId" : 2002,
+                              "parentpuzzleTypeId" : 2000,
+                              "puzzleTitle" : "PUZZLE#2",
+							  "puzzleBody" : "This is puzzle number 2.",
+							  "puzzleSolution" : "This is solution for puzzle number 2.",
+							  "puzzleSource" : "This is source of puzzle number 2."
+                          },
+                          {
+                              "puzzleId" : 2003,
+                              "parentpuzzleTypeId" : 2000,
+                              "puzzleTitle" : "PUZZLE#3",
+							  "puzzleBody" : "This is puzzle number 3.",
+							  "puzzleSolution" : "This is solution for puzzle number 3.",
+							  "puzzleSource" : "This is source of puzzle number 3."
+                          },
+                         {
+                              "puzzleId" : 2004,
+                              "parentpuzzleTypeId" : 2000,
+                              "puzzleTitle" : "PUZZLE#4",
+							  "puzzleBody" : "This is puzzle number 4.",
+							  "puzzleSolution" : "This is solution for puzzle number 4.",
+							  "puzzleSource" : "This is source of puzzle number 4."
+                          }
+                      ]
+    },   
+         {
+        "puzzleTypeId" : 3000,
+        "parentPuzzleTypeId" : -1,
+        "puzzleType": "Number Puzzles",
+        "childPuzzles" : [
+                          {
+                              "puzzleId" : 3001,
+                              "parentpuzzleTypeId" : 3000,
+                              "puzzleTitle" : "PUZZLE#1",
+							  "puzzleBody" : "This is puzzle number 1.",
+							  "puzzleSolution" : "This is solution for puzzle number 1.",
+							  "puzzleSource" : "This is source of puzzle number 1."
+                          },
+                          {
+                              "puzzleId" : 3002,
+                              "parentpuzzleTypeId" : 3000,
+                              "puzzleTitle" : "PUZZLE#2",
+							  "puzzleBody" : "This is puzzle number 2.",
+							  "puzzleSolution" : "This is solution for puzzle number 2.",
+							  "puzzleSource" : "This is source of puzzle number 2."
+                          },
+                          {
+                              "puzzleId" : 3003,
+                              "parentpuzzleTypeId" : 3000,
+                              "puzzleTitle" : "PUZZLE#3",
+							  "puzzleBody" : "This is puzzle number 3.",
+							  "puzzleSolution" : "This is solution for puzzle number 3.",
+							  "puzzleSource" : "This is source of puzzle number 3."
+                          },
+                         {
+                              "puzzleId" : 3004,
+                              "parentpuzzleTypeId" : 3000,
+                              "puzzleTitle" : "PUZZLE#4",
+							  "puzzleBody" : "This is puzzle number 4.",
+							  "puzzleSolution" : "This is solution for puzzle number 4.",
+							  "puzzleSource" : "This is source of puzzle number 4."
+                          }
+                      ]
+    }   
+    
+]
