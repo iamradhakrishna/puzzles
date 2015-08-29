@@ -2,9 +2,7 @@
 
      {
         "puzzleTypeId" : 1000,
-        "parentPuzzleTypeId" : -1,
-        "puzzleType": "Logic Puzzles",
-        "childPuzzles" : [
+        "Logic Puzzles" : [
                           {
                               "puzzleId" : 1001,
                               "parentpuzzleTypeId" : 1000,
@@ -42,8 +40,7 @@
          {
         "puzzleTypeId" : 2000,
         "parentPuzzleTypeId" : -1,
-        "puzzleType": "Word Puzzles",
-        "childPuzzles" : [
+        "Word Puzzles" : [
                           {
                               "puzzleId" : 2001,
                               "parentpuzzleTypeId" : 2000,
@@ -80,9 +77,7 @@
     },   
          {
         "puzzleTypeId" : 3000,
-        "parentPuzzleTypeId" : -1,
-        "puzzleType": "Number Puzzles",
-        "childPuzzles" : [
+        "Number Puzzles" : [
                           {
                               "puzzleId" : 3001,
                               "parentpuzzleTypeId" : 3000,
