@@ -1,0 +1,87 @@
+[
+  {
+    "puzzleType"    : "Logic",
+    "puzzleTitle"   : "PUZZLE#1",
+		"puzzleBody"    : "This is puzzle number 1.",
+		"puzzleSolution": "This is solution for puzzle number 1.",
+		"puzzleSource"  : "This is source of puzzle number 1."
+  },
+ {
+    "puzzleType"    : "Logic",
+    "puzzleTitle"   : "PUZZLE#2",
+		"puzzleBody"    : "This is puzzle number 2.",
+		"puzzleSolution": "This is solution for puzzle number 2.",
+		"puzzleSource"  : "This is source of puzzle number 2."
+  },
+  {
+    "puzzleType"    : "Logic",
+    "puzzleTitle"   : "PUZZLE#3",
+		"puzzleBody"    : "This is puzzle number 3.",
+		"puzzleSolution": "This is solution for puzzle number 3.",
+		"puzzleSource"  : "This is source of puzzle number 3."
+  },
+  {
+    "puzzleType"    : "Logic",
+    "puzzleTitle"   : "PUZZLE#4",
+		"puzzleBody"    : "This is puzzle number 4.",
+		"puzzleSolution": "This is solution for puzzle number 4.",
+		"puzzleSource"  : "This is source of puzzle number 4."
+  },
+  {
+    "puzzleType"    : "Word",
+    "puzzleTitle"   : "PUZZLE#1",
+		"puzzleBody"    : "This is puzzle number 1.",
+		"puzzleSolution": "This is solution for puzzle number 1.",
+		"puzzleSource"  : "This is source of puzzle number 1."
+  },
+  {
+    "puzzleType"    : "Word",
+    "puzzleTitle"   : "PUZZLE#2",
+		"puzzleBody"    : "This is puzzle number 2.",
+		"puzzleSolution": "This is solution for puzzle number 2.",
+		"puzzleSource"  : "This is source of puzzle number 2."
+  },
+  {
+    "puzzleType"    : "Word",
+    "puzzleTitle"   : "PUZZLE#3",
+		"puzzleBody"    : "This is puzzle number 3.",
+		"puzzleSolution": "This is solution for puzzle number 3.",
+		"puzzleSource"  : "This is source of puzzle number 3."
+  },
+  {
+    "puzzleType"    : "Word",
+    "puzzleTitle"   : "PUZZLE#4",
+		"puzzleBody"    : "This is puzzle number 4.",
+		"puzzleSolution": "This is solution for puzzle number 4.",
+		"puzzleSource"  : "This is source of puzzle number 4."
+  },
+  {
+    "puzzleType"    : "Number",
+    "puzzleTitle"   : "PUZZLE#1",
+		"puzzleBody"    : "This is puzzle number 1.",
+		"puzzleSolution": "This is solution for puzzle number 1.",
+		"puzzleSource"  : "This is source of puzzle number 1."
+  },
+  {
+    "puzzleType"    : "Number",
+    "puzzleTitle"   : "PUZZLE#2",
+		"puzzleBody"    : "This is puzzle number 2.",
+		"puzzleSolution": "This is solution for puzzle number 2.",
+		"puzzleSource"  : "This is source of puzzle number 2."
+  },
+  {
+    "puzzleType"    : "Number",
+    "puzzleTitle"   : "PUZZLE#3",
+		"puzzleBody"    : "This is puzzle number 3.",
+		"puzzleSolution": "This is solution for puzzle number 3.",
+		"puzzleSource"  : "This is source of puzzle number 3."
+  },
+  {
+    "puzzleType"    : "Number",
+    "puzzleTitle"   : "PUZZLE#4",
+		"puzzleBody"    : "This is puzzle number 4.",
+		"puzzleSolution": "This is solution for puzzle number 4.",
+		"puzzleSource"  : "This is source of puzzle number 4."
+  }
+    
+]
