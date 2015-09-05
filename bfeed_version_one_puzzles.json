@@ -1,0 +1,262 @@
+			[		
+							{	
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#1.Find Banana",																
+								"puzzleBody"    :"You have a basket containing ten bananas. You have ten friends, who each desire a banana. You give each of your friends one banana.Now all your friends have one banana each, yet there is a banana remaining in the basket. How?",
+								"puzzleSolution":"You give a banana each to your first nine friends, and a basket with an banana to your tenth friend.Each friend has a banana , and one of them has it in a basket.",
+								"puzzleSource"  : "brainfeed"
+							},
+							{	
+			      	"puzzleType"    : "Logic",
+		        	"puzzleTitle"   : "P#2.Lable in a single shot","puzzleBody":"There are 3 boxes in front of you. One box contains only apples. second box contains only oranges. The other 3rd box contains both apples and oranges.\"And each box is labeled. One reads \"apples\", one reads \"oranges\", and one reads \"apples and oranges\".\"But the labeling machine has gone crazy and is now labeling all boxes incorrectly.If you are allowed to take only one fruit out from one of the boxes,how can you label All of the boxes correctly?", 													
+              "puzzleSolution":"Take a piece of fruit from the \"apples and oranges\" box.\"If it's an apple then you know that is the \"apples\" crate since ALL THE BOXES ARE LABELED INCORRECTLY.\"This means the box marked \"apples\" must be \"oranges\" and the box marked \"oranges\" must be \"apples and oranges\".",
+              "puzzleSource"  : "brainfeed"
+              },
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#3.Find the result",
+								"puzzleBody"    :"Isaac and Albert were excitedly describing the result of the Third Annual International Science Fair Extravaganza in Sweden.There were three contestants, Louis, Rene, and Johannes. Isaac reported that Louis won the fair, while Rene came in second. Albert, on the other hand, reported that Johannes won the fair, while Louis came in second.\\nIn fact, neither Isaac nor Albert had given a correct report of the results of the science fair. Each of them had given one correct statement and one false statement. What was the actual placing of the three contestants?",
+                "puzzleSolution":"Johannes won, Rene came in second, Louis came in third.\\nAll you have to do to solve this is look at Isaacs first statement:\"Louis won the fair\". If this were true then neither of Albert's statements could be true. Therefore this must be Isaac's false statement.\\nThis means that Isaacs second statement, \"Rene came in second\" must be true, which in turn means that Albert's first statement, \"John came in first\" must also be true. This leaves Louis in third place.",
+								"puzzleSource"  : "brainfeed"
+							},
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#4.Human Relations",
+								"puzzleBody"    :"At a family reunion were the following people: one grandfather, one grandmother, two fathers, two mothers, four children, three grandchildren, one brother, two sisters, two sons, two daughters, one father-in-law, one mother-in-law, and one daughter-in-law. But not as many people attended as it sounds. How many were there, and who were they?",
+								"puzzleSolution":"There were two little girls and a boy, their parents, and their father's parents, totaling seven people.",
+								"puzzleSource"  : "brainfood.com"
+							},
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#5.Select Partner",
+								"puzzleBody"    :"97 baseball teams participate in an annual state tournament. The champion is chosen for this tournament by the usual elimination scheme. That is, the 97 teams are divided into pairs, and the two teams of each pair play against each other. The loser of each pair is eliminated, and the remaining teams are paired up again, etc. How many games must be played to determine a champion?",
+								"puzzleSolution":"96. That is 48+24+12+6+3+2+1",
+								"puzzleSource"  : "brainfood.com"
+							},
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#6.Save time",												
+								"puzzleBody"    :"Your sock drawer contains ten pairs of white socks and ten pairs of black socks. If you're only allowed to take one sock from the drawer at a time and you can't see what color sock you're taking until you've taken it, how many socks do you have to take before you're guaranteed to have at least one matching pair?",
+								"puzzleSolution":"Three. In the worst case, the first two socks you take out will consist of one black sock and one white sock. The next sock you take out is guaranteed to match one or the other.",
+								"puzzleSource"  : "brainfood.com"
+							},
+							{	
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#7.Find the wine",	
+								"puzzleBody"    :"A man is the owner of a winery who recently passed away. In his will, he left 21 barrels (seven of which are filled with wine, seven of which are half full, and seven of which are empty) to his three sons. However, the wine and barrels must be split so that each son has the same number of full barrels, the same number of half-full barrels, and the same number of empty barrels. Note that there are no measuring devices handy. How can the barrels and wine be evenly divided?",
+								"puzzleSolution":"Two half-full barrels are dumped into one of the empty barrels. Two more half-full barrels are dumped into another one of the empty barrels. This results in nine full barrels, three half-full barrels, and nine empty barrels. Each son gets three full barrels, one half-full barrel, and three empty barrels.",
+								"puzzleSource"  : "mathisfun.com"
+							},
+							{	
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#8.Tell the right box",																
+								"puzzleBody"    :"You have three boxes of fruit. One contains just apples, one contains just oranges, and one contains a mixture of both. Each box is labeled -- one says \"apples,\" one says \"oranges,\" and one says \"apples and oranges.\" However, it is known that none of the boxes are labeled correctly. How can you label the boxes correctly if you are only allowed to take and look at just one piece of fruit from just one of the boxes?",							
+								"puzzleSolution":"Take a piece of fruit from the box marked \"apples and oranges.\" Suppose the fruit you take is an apple. Then that box must be the box containing just apples. Therefore, the box marked \"oranges\" cant be the box containing just apples, and it cant be the box containing just oranges either -- so it must be the box containing apples and oranges. The remaining box is therefore the box containing just oranges.If the fruit you take out is an orange, the solution is derived in a similar fashion: the box marked \"apples and oranges\" is the box containing just oranges; the box marked \"apples\" is the box containing both apples and oranges; and the box marked \"oranges\" is the one containing just apples.",
+	              "puzzleSource"  : "mathisfun.com"
+								
+							},
+							{	
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#9.What is going on",								
+								"puzzleBody"    :"A Man carries his son into the hospital because his son has a nail in his foot. The Surgeon then walks in and says \"I cannot operate on this boy as he is my son\".What is going on here?",
+								"puzzleSolution":"The Surgeon is the boys Mother.",
+								"puzzleSource"  : "mathisfun.com"
+
+							},
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#10.Knights and Knaves",								
+								"puzzleBody"    :"There are three people (Alex, Brook and Cody), one of whom is a knight, one a knave, and one a spy.\\nThe knight always tells the truth, the knave always lies, and the spy can either lie or tell the truth.\\nAlex says: \\nCody is a knave.\nBrook says: \"Alex is a knight.\\nCody says: I am the spy.\\nWho is the knight, who the knave, and who the spy?",	
+                "puzzleSolution":"Alex is a Knight\nBrook is a Spy\nCody is a Knave\nBrook is not the knight, since if he is, then Alex would also be the knight.\nCody is not the knight, since his statement would then be a lie.\nTherefore Alex is the knight. Hence Cody is the knave, and Brook is the spy.",
+								"puzzleSource"  : "mathisfun.com"
+							},	
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#11.Missing Fish",																										
+								"puzzleBody"    :"Two fathers took their sons fishing. man and son caught one fish, but when they returned to camp there were only 3 fish. How could this be? (None of the fish were eaten, lost, or thrown back.)",									
+								"puzzleSolution":"There were only three people. The son, his father, and his grandfather.",
+								"puzzleSource"  : "mathisfun.com"
+							},
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#12.Elevator puzzle",																								
+								"puzzleBody"    :"A man works on the 10th floor and always takes the elevator down to ground level at the end of the day.Yet every morning, he only takes the elevator to the 7th floor and then walks up the stairs to the 10th floor, even when in a hurry.But he will go all the way to the 10th floor when others are in the elevator with him or on a rainy day.why?",
+								"puzzleSolution":"He is too short to reach the \"10\" button.But when others are with him, he can ask them to push the button for the 10th floor. And on a rainy day he has an umbrella, so he can push the button using that.",
+								"puzzleSource"  : "brainfood.com"
+							},
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#13.Twin paradox : Truth or Lie",
+								"puzzleBody"    :"Imagin you are walking in a forest and reached a inter junction in that one(left) road goes to City and another(right) to deep Forest and there near by a house in that two twin brothers lived.You know that one twin lies always and another tells the truth always and one will be at home other in the forest.What question could you ask to him(you don't know he lies or not) to find the way to the City?",
+								"puzzleSolution":"Answer#1.Assume If your brother in your place,which road he suggests to reach City?Left or Right?\\nIf the twin who tells truth will answer : Right\\nIf the twin who tells lie will answer   : Right\\nSo finaly \"Left\" is city road.\\nor\\nAnswer#2.Would your brother agree that the road on the left leads to the City?\\nNote : There will be many answers for this but this is one of the solution among them.The point is here we need to ask the question which gets same answer from both.",
+								"puzzleSource"  : "brainfeed"
+							},		
+							{
+								"puzzleType"    : "Logic",
+								"puzzleTitle"   : "P#14.What Am I",
+								"puzzleBody"    :"Give me food, and I will live; give me water, and I will die. What am I?",
+								"puzzleSolution":"Fire",
+								"puzzleSource"  : "brainfeed"
+								},
+								
+										{	
+											"puzzleType"    : "Tricky",		
+											"puzzleTitle"   : "P#1.Any Song Puzzle",
+											"puzzleBody"    :"A poor woman and a rich woman are talking about music. \nThe poor woman says she has studied music and can name a song with any name in it.\nThe rich woman says OK, if you can find a song with my son's name in it, I will give you a thousand dollars. His name is Demarcus-Jabari.\"\nThe poor woman gives her answer and is instantly $1,000 richer.\n What was her answer?",
+											"puzzleSolution":"Happy Birthday.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{	
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#2.Choose the Right Symbol",
+											"puzzleBody"    :"What mathematical symbol can be put between 5 and 9, to get a number bigger than 5 and smaller than 9?",
+											"puzzleSolution":"A Decimal Point\n5.9 works nicely",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#3.Two Boys Cross a River",
+											"puzzleBody"    :"Two boys wish to cross a river. The only way to get to the other side is by boat, but that boat can only take one boy at a time. The boat cannot return on its own, there are no ropes or similar tricks, yet both boys manage to cross using the boat. How?",
+											"puzzleSolution":"Who said they were on the same side? The boys start on opposite sides of the river.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#4.What is first",
+											"puzzleBody"    :"You are in a dark room with a candle, a wood stove and a gas lamp. You only have one match, so what do you light first?",
+											"puzzleSolution":"The match of course.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#5.Best way",
+											"puzzleBody"    :"A criminal gets to pick his punishment by choosing among three rooms.\nThe first is full of burning fires, the second is full of assassins with loaded guns, and the third is full of lions that haven't eaten in 3 years. Which room is the safest choice?",
+											"puzzleSolution":"The Third Room. \nThe Lions will be dead by now (we should punish whoever was supposed to look after them!",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#6.Number of Days",
+											"puzzleBody"    :"Some months have 30 days. Some months have 31 days. How many months have 28 days?",
+											"puzzleSolution":"All of them!",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#7.Whose Brother",
+											"puzzleBody"    :"A woman gave birth to two sons who were born on the same hour of the same day of the same year but were not twins. How is this possible?",
+											"puzzleSolution":"They were two of triplets.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#8.Surprise Age",
+											"puzzleBody"    :"A man was born in 1964 and died in 1984 at the age of 25. How is this possible?",
+											"puzzleSolution":"He's born in room number 1964 of a hospital and dies in room number 1984.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#9.Big word",
+											"puzzleBody"    :"Tell me two words which contain the most letters in it?",
+											"puzzleSolution":"Post office.",
+											"puzzleSource"  : "brainfeed"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#10.Remove one become more",
+											"puzzleBody"    :"How can you take 1 from 19 and leave 20?",
+											"puzzleSolution":"If you take I from XIX, you are left with XX.",
+											"puzzleSource"  : "brainfood.com"
+										},
+										{
+											"puzzleType"    : "Tricky",
+											"puzzleTitle"   : "P#11.Remove one become more",										
+											"puzzleBody"    : "In a group of siblings, there are seven sisters, and each sister has one brother. How many siblings are there in total?",
+											"puzzleSolution":"Eight: seven sisters and one brother.",
+											"puzzleSource"  : "brainfood.com"
+										},
+										
+										
+										
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#1.10-digit Number",
+											"puzzleBody"    :"Find a 10-digit number where the first digit is how many zeros in the number, the second digit is how many 1s in the number etc. until the tenth digit which is how many 9s in the number.",
+											"puzzleSolution":"6210001000",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#2.Eight eights",
+											"puzzleBody"    :"Using 8 exactly eight times to make a 1000.",
+											"puzzleSolution":"888 + 88 + 8 + 8 + 8  or 8(8*8+8*8)-8-8-8",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#3.One line to make correct it",
+											"puzzleBody"    :"The following equation is wrong: 101 - 102 = 1 \n Move one numeral to make it correct.\n Move one line to make it correct.",
+											"puzzleSolution":"1.Move the numeral 2 half a line up to achieve 101-102 = 1 \n or Move one of the lines that makes the \"=\" over to the \"-\" to make: 101 = 102 - 1",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#4.Missing Number",
+											"puzzleBody"    :"When you have three, you have three. \nWhen you have two, you have two. \nBut when you have one, you have none.\nWhat is that?",
+											"puzzleSolution":"Choices.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#5.Make the Number 100",
+											"puzzleBody"    :"Using the numerals 1,7,7,7 and 7 (a \"1\" and four \"7\"s) create the number 100. \nAs well as the five numerals you can use the usual mathematical operations +, -, ◊, ˜ and brackets ().\nFor example: (7+1) * (7+7) = 112 would be a good attempt, but not right, because it is not 100.",
+											"puzzleSolution":"We know of two solutions:\na) 177-77 = 100\n b) (7+7) * (7+(1 ˜ 7)) = 100",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#6.Where Did the Dollar Come From ?",
+											"puzzleBody"    :"Two friends have a nice meal together, and the bill is $25\nThe friends pay $15 each, which the Waiter gives to the Cashier\nThe Cashier hands back $5 to the Waiter\nThe Waiter keeps $3 as a tip and hands back $1 each\nSo, the friends paid $14 each for the meal, for a total of $28. The Waiter has $3, and that makes $31. Where did the other dollar come from?",
+											"puzzleSolution":"$25 is sitting with the Cashier, $2 with the friends, and $3 with the Waiter. That adds to the required $30.\nThe mistake is expecting that what the men paid and what the Waiter kept to add up to what the men initially gave. In fact, it is the amount that the meal effectively cost them, plus the amount they received back, that should add to $30.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#7.Where Did the Dollar Go ?",
+											"puzzleBody"    :"Three friends have a nice meal together, and the bill is $25\nThe three friends pay $10 each, which the waiter gives to the Cashier\nThe Cashier hands back $5 to the Waiter\nBut the Waiter can't split $5 three ways, so he gives the friends one dollar each and keeps 2 dollars as a tip.\nThey all paid $10 and got $1 back. $10-$1 = $9\nThere were three of them 3 X $9 = $27\nIf they paid $27 and the waiter kept $2: $27+$2=$29\nWhere did the other dollar go? $30 - $1 = $29",
+											"puzzleSolution":"It is all in how the question is asked. \nWhen the friends paid $10 dollars, they had paid $30 in total.\nWhen the Cashier gave $5 dollars to the Waiter, the 3 friends had paid $25 to the Cashier and $5 to the Waiter. \nWhen the Waiter returns 3 dollars, the 3 friends had paid $25 to the Cashier and $2 to the Waiter. $25+$2 = $27 = 3 x $9.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#8.What The Students Know",
+											"puzzleBody"    :"I am thinking of two natural numbers bigger than 1. Try to guess what they are. \nThe first student knows their product and the other one knows their sum. \nFirst: \"I do not know the sum.\" \nSecond: \"I knew that. The sum is less than 14.\" \nFirst: \"I knew that. However, now I already know the numbers.\" \nSecond: \"And so do I.\" \nWhat were the numbers?",
+											"puzzleSolution":"The numbers were 2 and 9. Why? Try to think about it.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#9.Squares on a Chess Board",
+											"puzzleBody"    :"How many squares are there on a chess board ... ?",
+											"puzzleSolution":"There are a total of 204 squares on a chess board, including all sizes from 1 x 1 up to 8 x 8.",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#10.How Old is Granny?",
+											"puzzleBody"    :"Tom asked his Granny how old she was. Rather than giving him a straight answer, she replied:\nI have 6 children, and there are 4 years between each one and the next. I had my first child (your Uncle Peter) when I was 19. Now the youngest one (Your Auntie Jane) is 19 herself. That's all I'm telling you!\nHow old is Tom's Granny?",
+											"puzzleSolution":"Toms Granny is 58 years old. Lets see why:\nFirst child born: Granny is 19\nSecond child born: Granny is 23 (19 + 4)\nThird child born: Granny is 27 (23 + 4)\nFourth child born: Granny is 31 (27 + 4)\nFifth child born: Granny is 35 (31 + 4)\nSixth child born: Granny is 39 (35 + 4)\nSixth child is 19: Granny is 58 (39 + 19)",
+											"puzzleSource"  : "mathisfun.com"
+										},
+										{
+											"puzzleType"    : "Number",
+											"puzzleTitle"   : "P#11.How Old is Granny?",
+											"puzzleBody"    :"Make 40 out of 4, 6, 8, and 8.",
+											"puzzleSolution":"(8 + 8) + (4 × 6)",
+											"puzzleSource"  : "brainfeed"
+										}
+	]
