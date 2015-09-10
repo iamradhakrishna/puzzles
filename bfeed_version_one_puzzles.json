@@ -172,7 +172,7 @@
 										},
 										{
 											"puzzleType"    : "Tricky",
-											"puzzleTitle"   : "P#11.Remove one become more",										
+											"puzzleTitle"   : "P#11.Human relations",										
 											"puzzleBody"    : "In a group of siblings, there are seven sisters, and each sister has one brother. How many siblings are there in total?",
 											"puzzleSolution":"Eight: seven sisters and one brother.",
 											"puzzleSource"  : "brainfood.com"
@@ -255,7 +255,7 @@
 										},
 										{
 											"puzzleType"    : "Number",
-											"puzzleTitle"   : "P#11.How Old is Granny?",
+											"puzzleTitle"   : "P#11.Can you make 40?",
 											"puzzleBody"    :"Make 40 out of 4, 6, 8, and 8.",
 											"puzzleSolution":"(8 + 8) + (4 × 6)",
 											"puzzleSource"  : "brainfeed"
