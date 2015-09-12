@@ -1,0 +1,10 @@
+[
+{
+"puzzleType" : "Logic",
+"puzzleTitle" : "P#L15.Two Barbers Puzzle.",
+"puzzleBody" :"There are only two barbers in town One of them has a nice, neatly trimmed head of hair.The other one's hair is a complete mess.\nWhich of the two barbers should you go to and why?",
+"puzzleSolution": "The one with messy hair, as they cut the neat barber's hair.",
+"puzzleSource" : "www.mathsisfun.com"
+
+}
+]
