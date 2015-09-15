@@ -100,5 +100,126 @@
  "puzzleBody": "You have lost your mother at the carnival. You search for her and eventually you see her.\nWhat's the first thing you do when you see her?",
 "puzzleSolution": "Stop searching!",
 "puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#15.Still there",
+ "puzzleBody": "A man shaves several times a day, yet he still has a beard? Who is this guy?",
+"puzzleSolution": "He's a barber.He shaves for others!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#16.Half of a hole",
+ "puzzleBody": "If it takes three men two days to dig a hole, how long does it take one man to dig half of a hole?",
+"puzzleSolution": "You can't dig half of a hole, a hole's a hole. As soon as digging starts there is a hole, so there is also half a hole!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#17.Make even number",
+ "puzzleBody": "How can you make 7 even?",
+"puzzleSolution": "Remove the 's' from 'seven' to make it 'even.'!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#18.How many for half of a job",
+ "puzzleBody": "It takes ten men ten hours to build a certain wall. How long does it take five men to build the same wall?",
+"puzzleSolution": "The same wall?The wall is already built. There is no need to build it again!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#19.Who lives",
+ "puzzleBody": "A blue man lives in a blue house. A green man lives in a green house. Who lives in the white house?",
+"puzzleSolution": "The president of USA!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#20.Make 8 heavy",
+ "puzzleBody": "How can you make 8 more heavy by adding one?",
+"puzzleSolution": "Add ‘w’ it becomes weight!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#21.What goes up or down always?",
+ "puzzleBody": "What goes up or down always, never go left and right?",
+"puzzleSolution": "Lift in a building!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#22.How many letters ",
+ "puzzleBody": " How many letters are in the alphabet?",
+"puzzleSolution": " There are 11 letters in 'the alphabet.'!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#23.What happens",
+ "puzzleBody": "What happens when you throw a blue rock into the yellow sea?",
+"puzzleSolution": "It sinks right!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#24.Try to alive",
+ "puzzleBody": " Imagine you are swimming in the ocean and a bunch of hungry sharks surround you. How do you get out alive?",
+"puzzleSolution": "By stopping my imagination!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#25. Coolest alphabet?",
+ "puzzleBody": "What is the coolest letter in the alphabet?",
+"puzzleSolution": "'B', because it's always surrounded by AC.!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#26.Longest word",
+ "puzzleBody": "What is the longest word in the dictionary?",
+"puzzleSolution": "Smiles because there is a mile between each 's'!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#27. Light hides and darkness kills",
+ "puzzleBody": " Light hides me and darkness kills me,What am I?",
+"puzzleSolution": " A shadow.!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#28.what is at the end",
+ "puzzleBody": " What is at the end of a rainbow?",
+"puzzleSolution": " The letter W!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#29.Who gets banana first ",
+ "puzzleBody": " A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?",
+"puzzleSolution": " None of them, because you can’t get a banana from a coconut tree!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#30.What first ",
+ "puzzleBody": " You are awoken at 6 A.M. by a knock on your door. Your parents call you to let you know that they are there for breakfast. You are confused but quickly think of what food you have. You have bread, jam, butter, and eggs. What do you open first?",
+"puzzleSolution": " The door for your parents.!",
+"puzzleSource": "brainfeed"
 }
 ]
