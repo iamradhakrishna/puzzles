@@ -221,5 +221,211 @@
  "puzzleBody": " You are awoken at 6 A.M. by a knock on your door. Your parents call you to let you know that they are there for breakfast. You are confused but quickly think of what food you have. You have bread, jam, butter, and eggs. What do you open first?",
 "puzzleSolution": " The door for your parents.!",
 "puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#15.Fire the Rope",
+ "puzzleBody": "There are two ropes that both take exactly 1 hour to burn from end to end. You are unable to cut the rope. How can you burn the two ropes in a total of 45 minutes?",
+"puzzleSolution": "Start one of the ropes on fire from both ends and the other one from one end. After a half an hour one rope will be completely burnt and the other will be half burnt. At this point you light the final rope from the unlit side and it will take 15 minutes for the remaining half of the rope to burn, for a total of 45 minutes.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#16.How many children",
+ "puzzleBody": "Mr.Smith has 4 daughters. Each of his daughters has a brother.\nHow many children does Mr.Smith have?",
+"puzzleSolution": " He has 5 children, all of the daughters have the same 1 brother.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#17.No moon light",
+ "puzzleBody": " A man was driving a black car. His lights were off. The moon shown no light. A cat was in the middle of the road. How did he know to stop?",
+"puzzleSolution": " It was a very bright and sunny day.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#18.Tell me the tone",
+ "puzzleBody": " Tell me a tone name which never sounds?",
+"puzzleSolution": " Skin tone!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#19.Crossing the river",
+ "puzzleBody": " Four people need to cross a bridge in 17 minutes in the middle of the night. The bridge can only hold two or less people at any time and they only have one flashlight so they must travel together (or alone). The flashlight can only travel with a person so every time it crosses the bridge it must be carried back. Tom can cross in 1 minute, John can cross in 2 minutes, Sally can cross in 5 minutes, and Connor can cross in 10 minutes. If two people cross together they go as fast as the slower person.How can they cross the bridge in 17 minutes or less?",
+"puzzleSolution": "First Tom and John will cross (2 minutes). Then Tom will bring the flashlight back (1 minute). Next Sally and Connor will cross (10 minutes). Then John will bring the flashlight back (2 minutes). Finally John and Tom will cross (2 minutes). 2 + 1 + 10 + 2 + 2 = 17 minutes.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#20.Find the hat",
+ "puzzleBody": "There are four men: Abe, Butch, Cam, and Dan. There are four hats: two white and two black. They each get a hat: Abe gets black, Butch gets white, Cam gets black, and Dan gets white. They don't know what hat color they have. Abe goes into a room so that no one can see his hat. The others line up in front of the door in the order Butch, Cam, and Dan (Butch can't see the others hats, Cam can see Butch's, and Dan can see Cam and Butch's hats). Whoever can figure out their hat color first wins $1,000. If they are wrong they are out of the running.\nWhich man can figure out his hat color without a doubt?",
+"puzzleSolution": " Cam can figure it out.\n If Dan saw that Cam and Butch had the same color hat he would know his hat color. Since he doesn't quickly figure out his hat color, Cam knows that him and Butch don't have the same hat color. So all he has to do is say that his hat color is the opposite of Butch's hat color (after giving enough time to be sure that Dan doesn't know his own color).",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#21.Get the key",
+ "puzzleBody": " Tom wants to send Sally an expensive ring through the mail because they live thousands of miles apart. The only problem is that everything sent through the mail is stolen unless there is a lock put on it. Both Tom and Sally have plenty of locks and keys but they don't have any of the same locks or keys.\nHow can Tom send Sally the ring without it getting stolen?",
+"puzzleSolution": " Tom puts one of his locks on the box with the ring in it. When Sally gets it she puts one of her own locks on the box and sends it back to Tom. Finally Tom takes his lock off of the box and sends it back to Sally who can then unlock her own lock and retrieve the ring.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#22.Count missing",
+ "puzzleBody": " A farmer has three fields. One of them has 3 bundles of hay, another has 4, and the last has 5. How many would he have in the first field if he combined all of them in that field?",
+"puzzleSolution": "Just one, he combined them all.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#23.Tell me the word",
+ "puzzleBody": " It's hard to give up.Remove part of it and you still have a bit.Remove another part, but bit is still there.Remove another and it remains.What is it?",
+"puzzleSolution": "'Habit'.Remove a letter, 'abit'. Remove another letter, 'bit'. Remove another, 'it'.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#24.Find the switch by one chance",
+ "puzzleBody": " There are 3 switches downstairs, each corresponding to one of the light bulbs upstairs. How can you figure out which light switch goes to which light bulb by only making 1 trip upstairs?",
+"puzzleSolution": " You turn on one light bulb. Leave it on for a while. Then, turn that one off and turn another one on. Go upstairs. One light bulb will be cold, one will be warm, and one will be on.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#25.Big aged person?",
+ "puzzleBody": "A person was born in 1940. Today is his 18th birthday.\nHow is that possible?",
+"puzzleSolution": "He was born in hospital room 1940.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#26.Half of a person",
+ "puzzleBody": " A man has 3 children and half of them are girls, how is this possible??",
+"puzzleSolution": " They are all girls (technically 2 or 3 must be girls).",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#27.Can you break egg?",
+ "puzzleBody": " A man drops an egg onto the cement. The egg doesn't break after falling 3 feet.\nHow could this be?",
+"puzzleSolution":"He drops it from higher than 3 feet so after it falls 3 feet it has not hit the cement and broken yet.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#28.Who was buried in Tomb?",
+ "puzzleBody": "Who was buried in Grant's Tomb?",
+"puzzleSolution": " Grant!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#29.Which is the tallest",
+ "puzzleBody": "Before man discovered Mt. Everest, what was the tallest mountain in the world?",
+"puzzleSolution": " Still Mt. Everest, it doesn't have to be discovered to be the tallest.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#30.Make a liquid",
+ "puzzleBody": "How can you make a TV, a bed, a dog, and a car liquid?",
+"puzzleSolution": " Sell them.(become liquid cash)",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#31.How many there",
+ "puzzleBody": "An empty bus pulls up to a stop and 10 people get on. At the next stop 5 people get off and twice as many people get on as at the first stop. At the third stop 25 get off.\nHow many people are on the bus at this point?",
+"puzzleSolution": " Just 1, the driver.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#32.With one question find the answer",
+ "puzzleBody": "You are walking down the road trying to find enlightenment when you come to a monk and a three-way fork in the road. The roads point North, East, and West. You can ask the monk one question. He will answer honestly yes, no, or just hum if he cannot answer the question.\nWhat do you ask him to figure out the correct path?",
+"puzzleSolution": " If the treasure is not in the East, is it in the West? If the monk answers yes, it is West. If he answers no, it is East. If he hums, it is North.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#33.Catch the fish ",
+ "puzzleBody": "2 men catch 2 fish in 2 minutes. At this rate, how many men could catch 500 fish in 500 minutes?",
+"puzzleSolution": " 2 men.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#34.Find the position",
+ "puzzleBody": "If you're in 3rd place and you passed the person in 2nd, what place are you in?",
+"puzzleSolution": " 2nd.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#35.Get the logic",
+ "puzzleBody": "You want to go to a club but to get in you must respond correctly to what the bouncer says. The bouncer says 12 to one man and the man responds 6, he is allowed in. The bouncer says 6 to another man and the man says 3, he too is allowed in. A third man walks up and the bouncer says 10 and the man responds 5, but he is denied entry.\nWhat number should he have said to get in?",
+"puzzleSolution":"He should have said 3. The rule is to respond with the number of letters in the number the bouncer says. T-W-E-L-V-E has 6 letters, S-I-X has 3 letters, T-E-N has three letters.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#36.How many can you",
+ "puzzleBody": "How many eggs can you put in an empty basket?",
+"puzzleSolution": " Only one, the basket is no longer empty after this.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#37.How many birds there",
+ "puzzleBody": "There are 20 birds in a tree. A man comes and shoots one of the birds. How many birds are left?",
+"puzzleSolution":"None, because all the birds flew away after hearing the gun shot.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#38.How much time ",
+ "puzzleBody": "To dye a single Easter egg takes 7.5 minutes if you leave it in dye. How long would it take to dye 3 eggs?",
+"puzzleSolution": " 7.5 minutes. Do them all at once.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#39.More remove more grows",
+ "puzzleBody": "What grows when you take from it?More remove more grow?",
+"puzzleSolution": " A hole.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#40.What is the word ",
+ "puzzleBody": "one day there were two cops, they got a call saying there was some kind of mystery so they went to the house were the mystery was at, the lady there said she could not figure out how many letters the special word was, later the cops went home knowing that they had done a good job. How many letters was the special word?",
+"puzzleSolution": " 14 \"the special word\".",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#41.How about other one ",
+ "puzzleBody": "4 people fall out of a boat and only 3 get their hair wet.What about other one?",
+"puzzleSolution": " The fourth one was bald.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Logic",
+"puzzleTitle": "P#42.Nothing but what ",
+ "puzzleBody": "What has rivers but no water, forest but no trees and cities but no people.?",
+"puzzleSolution": " Map.",
+"puzzleSource": "brainfeed"
 }
 ]
