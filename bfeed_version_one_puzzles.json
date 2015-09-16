@@ -259,5 +259,228 @@
 											"puzzleBody"    :"Make 40 out of 4, 6, 8, and 8.",
 											"puzzleSolution":"(8 + 8) + (4 × 6)",
 											"puzzleSource"  : "brainfeed"
-										}
+										},
+										{
+"puzzleType": "Funny",
+"puzzleTitle": "P#1.History Building",
+ "puzzleBody": "What building has the most stories?",
+"puzzleSolution": "A library.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#2.Can’t Eat",
+ "puzzleBody": "What two things can you never eat for breakfast?",
+"puzzleSolution": "Lunch and dinner!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#3.How many apples",
+ "puzzleBody": "How many apples grow on a tree?",
+"puzzleSolution": "All apples grow on trees only.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#4.No rule go anywhere?",
+ "puzzleBody": " A car driver is going opposite traffic on a one-way street. A police officer sees him but doesn't stop him.Why didn't the police officer stop him?",
+"puzzleSolution": "He was walking.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#5.Which comes first?",
+ "puzzleBody": "Which comes first, chicken or egg?",
+"puzzleSolution": "Chicken. Ever heard of a dictionary? Alphabetic order!!!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#6.Tell me the code",
+ "puzzleBody": "On Wednesday, a thief enters a shop and threatens the clerk, forcing him to open the safe. The clerk says, \"The code for the safe is different every day, and if you hurt me you'll never get the code\". But the thief manages to guess the code on his own.\n How did he do it?",
+"puzzleSolution": "There are two solutions people often argue with this.\n 1. The code is \"different.\" The clerk told him this.\n 2.Wednesday-everyday different mean day name only changes so he entered on Wednesday so he thinks day name is code.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#7.What is My Name?",
+ "puzzleBody": "Mary's mother has three children. The first was named April. The next was named May.\n What is the final one's name?",
+"puzzleSolution": "Ofcourse it is Mary!!!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#8.I never be your brother",
+ "puzzleBody": "You are my brother, but I am not your brother. Who am I?",
+"puzzleSolution": "I am your sister.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#9.What a room",
+ "puzzleBody": "What kind of room has no doors or windows?",
+"puzzleSolution": "A mushroom.",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#10.Count the seconds",
+ "puzzleBody": "How many seconds are in a year?",
+"puzzleSolution": "Only 12. January 2nd, February 2nd, etc.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P11.Make disappear",
+ "puzzleBody": "How do you make the number \"one\" disappear by adding to it?",
+"puzzleSolution": "Add the letter 'G' and it's 'Gone'.",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#12.I found that and u?",
+ "puzzleBody": "Scientists are trying to figure out what is between Heaven and Earth.What is it?",
+"puzzleSolution": "The word 'and.' ",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#13.Check your knowledge",
+ "puzzleBody": "What was the president of the United State's name in 1980?",
+"puzzleSolution": "The answer for this riddle is the current president name only. As his name is same as in 1980 also",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#14.First step",
+ "puzzleBody": "You have lost your mother at the carnival. You search for her and eventually you see her.\nWhat's the first thing you do when you see her?",
+"puzzleSolution": "Stop searching!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#15.Still there",
+ "puzzleBody": "A man shaves several times a day, yet he still has a beard? Who is this guy?",
+"puzzleSolution": "He's a barber.He shaves for others!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#16.Half of a hole",
+ "puzzleBody": "If it takes three men two days to dig a hole, how long does it take one man to dig half of a hole?",
+"puzzleSolution": "You can't dig half of a hole, a hole's a hole. As soon as digging starts there is a hole, so there is also half a hole!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#17.Make even number",
+ "puzzleBody": "How can you make 7 even?",
+"puzzleSolution": "Remove the 's' from 'seven' to make it 'even.'!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#18.How many for half of a job",
+ "puzzleBody": "It takes ten men ten hours to build a certain wall. How long does it take five men to build the same wall?",
+"puzzleSolution": "The same wall?The wall is already built. There is no need to build it again!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#19.Who lives",
+ "puzzleBody": "A blue man lives in a blue house. A green man lives in a green house. Who lives in the white house?",
+"puzzleSolution": "The president of USA!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#20.Make 8 heavy",
+ "puzzleBody": "How can you make 8 more heavy by adding one?",
+"puzzleSolution": "Add ‘w’ it becomes weight!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#21.What goes up or down always?",
+ "puzzleBody": "What goes up or down always, never go left and right?",
+"puzzleSolution": "Lift in a building!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#22.How many letters ",
+ "puzzleBody": " How many letters are in the alphabet?",
+"puzzleSolution": " There are 11 letters in 'the alphabet.'!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#23.What happens",
+ "puzzleBody": "What happens when you throw a blue rock into the yellow sea?",
+"puzzleSolution": "It sinks right!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#24.Try to alive",
+ "puzzleBody": " Imagine you are swimming in the ocean and a bunch of hungry sharks surround you. How do you get out alive?",
+"puzzleSolution": "By stopping my imagination!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#25. Coolest alphabet?",
+ "puzzleBody": "What is the coolest letter in the alphabet?",
+"puzzleSolution": "'B', because it's always surrounded by AC.!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#26.Longest word",
+ "puzzleBody": "What is the longest word in the dictionary?",
+"puzzleSolution": "Smiles because there is a mile between each 's'!",
+"puzzleSource": "brainfeed"
+},
+
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#27. Light hides and darkness kills",
+ "puzzleBody": " Light hides me and darkness kills me,What am I?",
+"puzzleSolution": " A shadow.!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#28.what is at the end",
+ "puzzleBody": " What is at the end of a rainbow?",
+"puzzleSolution": " The letter W!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#29.Who gets banana first ",
+ "puzzleBody": " A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?",
+"puzzleSolution": " None of them, because you can’t get a banana from a coconut tree!",
+"puzzleSource": "brainfeed"
+},
+{
+"puzzleType": "Funny",
+"puzzleTitle": "P#30.What first ",
+ "puzzleBody": " You are awoken at 6 A.M. by a knock on your door. Your parents call you to let you know that they are there for breakfast. You are confused but quickly think of what food you have. You have bread, jam, butter, and eggs. What do you open first?",
+"puzzleSolution": " The door for your parents.!",
+"puzzleSource": "brainfeed"
+}
 	]
