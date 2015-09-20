@@ -440,5 +440,18 @@
  "puzzleBody": "What has rivers but no water, forest but no trees and cities but no people.?",
 "puzzleSolution": " Map.",
 "puzzleSource": "brainfeed"
+},
+{
+
+"puzzleType" : "Logic",
+
+"puzzleTitle" : "P#43.Triplets Puzzle",
+
+"puzzleBody" : "Three sisters are identical triplets.\nThe oldest by minutes is Sarah, and Sarah always tells anyone the truth.\nThe next oldest is Sue, and Sue always will tell anyone a lie. \nSally is the youngest of the three. She sometimes lies and sometimes tells the truth.\nVicky, an old friend of the family's, came over one day and as usual he didn't know who was who, so he asked each of them one question.\nVicky asked the sister that was sitting on the left, \"Which sister is in the middle of you three?\" and the answer he received was, \"Oh, that's Sarah.\"\nVicky then asked the sister in the middle, \"What is your name?\" The response given was, \"I'm Sally.\"Vicky turned to the sister on the right, then asked, \"Who is that in the middle?\" The sister then replied, \"She is Sue.\"\nThis confused Victor; he had asked the same question three times and received three different answers.\nWho was who?",
+
+"puzzleSolution": "The first one cannot be Sarah, because that would make the first one a liar.\nThe second one cannot be Sarah for the same reason. So, the third sister must be Sarah. This means the middle one is Sue and the only one left is Sally.",
+
+"puzzleSource" : "mathsisfun.com"
+
 }
 ]
