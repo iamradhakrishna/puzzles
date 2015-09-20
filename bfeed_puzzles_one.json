@@ -223,6 +223,19 @@
 "puzzleSource": "brainfeed"
 },
 {
+
+"puzzleType" : "Logic",
+
+"puzzleTitle" : "P#14.Deadly Choice Puzzle",
+
+"puzzleBody" : "A man is caught on the King's property. He is brought before the King to be punished.\nThe King says,\"You must give me a statement. If it is true, you will killed by lions. If it is false, you will be killed by trampling of wild buffalo.\"\nBut in the end, the King has to let the man go.\nWhat was the man's statement?",
+
+"puzzleSolution": "I will be killed by trampling of wild buffalo.\",\nIf you think about it carefully: the King can't say it is true, because if so the man should be killed by the lions. But if he is killed by the lions, then his statement would be false, and so should have been trampled by buffalo.\nSo the King can't tell if it is a lie or truth, so decides to just let him go.",
+
+"puzzleSource" : "mathfun.com"
+
+},
+{
 "puzzleType": "Logic",
 "puzzleTitle": "P#15.Fire the Rope",
  "puzzleBody": "There are two ropes that both take exactly 1 hour to burn from end to end. You are unable to cut the rope. How can you burn the two ropes in a total of 45 minutes?",
